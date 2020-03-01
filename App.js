@@ -34,7 +34,7 @@ export default class App extends Component {
     return (
       <View style={styles.container}>
         <Image source={this.state.image} style={styles.logo}/>
-        <Text style={styles.welcome} >RRRRR</Text>
+        <Text style={styles.welcome} >FFFFFFF</Text>
         <TouchableOpacity 
         onPress={this.openImagePickerAsync} 
         style={styles.fuckButton}>
